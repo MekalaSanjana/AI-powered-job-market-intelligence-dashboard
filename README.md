@@ -297,6 +297,4 @@ https://github.com/MekalaSanjana
 
 ---
 
-# 📄 License
 
-MIT License
